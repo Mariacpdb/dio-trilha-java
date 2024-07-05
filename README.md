@@ -1,2 +1,2 @@
 # dio-trilha-java
-Repositório para testes de Java pela DIO
+Repositório para testes e projetos de Java pela DIO
